@@ -9,7 +9,7 @@ version           "1.0.3"
   supports os
 end
 
-depends "apache2"
+#depends "apache2"
 depends "windows"
 
 recipe "subversion", "Includes the client recipe."
